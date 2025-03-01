@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 1. Run the script:
 ```bash
-python ntscan.py
+python nmap-assist.py
 ```
 
 2. Choose from three scanning options:
