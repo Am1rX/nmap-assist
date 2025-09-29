@@ -1,5 +1,6 @@
 # Network Scanner (ntscan)
-
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 A comprehensive network scanning tool that combines ARP scanning, ping sweeps, and detailed Nmap scanning capabilities to discover and analyze devices on your network.
 
 ## Features
